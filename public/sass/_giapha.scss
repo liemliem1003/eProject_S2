@@ -1,0 +1,30 @@
+.ongnoi{
+    //css thang ông nội
+    .cha{
+        
+        // css thằng cha
+        width: 100px;
+        .con{
+
+            .chau{
+
+                &:hover{
+                    background: #111;
+                    .chauchac{
+                        color: red;
+                    }
+                }
+                .chauchac{
+                    .chauco{
+
+                    }
+                }
+            }
+        }
+        .dau{
+            .adbsad{
+
+            }
+        }
+    }
+}

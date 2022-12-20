@@ -1,0 +1,23 @@
+body{
+    padding: 50px;
+}
+.btnLogin{
+    border: 1px solid red;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 25px;
+    color: red;
+    font-size: 25px;
+    span{
+        // color: aqua;   
+    }
+    .span{
+       font-size: 16px ;    
+    }
+    &:hover{
+        background: red;
+        border: 1px solid red;
+        color: #fff;
+    }
+}
+ 

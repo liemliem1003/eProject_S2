@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+}
+
+.btnLogin {
+  border: 1px solid red;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 10px 25px;
+  color: red;
+  font-size: 25px;
+}
+.btnLogin .span {
+  font-size: 16px;
+}
+.btnLogin:hover {
+  background: red;
+  border: 1px solid red;
+  color: #fff;
+}
+
+.ongnoi .cha {
+  width: 100px;
+}
+.ongnoi .cha .con .chau:hover {
+  background: #111;
+}
+.ongnoi .cha .con .chau:hover .chauchac {
+  color: red;
+}/*# sourceMappingURL=guest.css.map */
